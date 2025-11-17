@@ -27,6 +27,7 @@
 - [ ] [Go代码审计：Gitea远程命令执行漏洞链](https://www.freebuf.com/articles/network/177699.html)@phithon
 - [ ] [Go代码审计学习（一）](https://blog.csdn.net/weixin_49656607/article/details/128291716)@paidx0
 - [ ] [Go代码审计学习（二）](https://blog.csdn.net/weixin_49656607/article/details/128291872?spm=1001.2014.3001.5502)@paidx0
+- [ ] [GoLang代码审计基础](https://mp.weixin.qq.com/s/Xl-TG7VfEbTzOaZP3bt50A)@暗月小徒弟
 
 二、优秀项目
 - [ ] https://github.com/Firebasky/Go
